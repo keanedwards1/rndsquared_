@@ -1,0 +1,166 @@
+[Wed May 01 08:02:56.677554 2024] [:error] [pid 30151] [client 119.188.246.91:62832] script '/var/www/vhosts/www.rndsquared.com/htdocs/admin.php' not found or unable to stat
+[Wed May 01 09:05:18.477957 2024] [:error] [pid 30152] [client 119.188.240.22:52978] script '/var/www/vhosts/www.rndsquared.com/htdocs/api.php' not found or unable to stat
+[Wed May 01 11:42:08.300858 2024] [:error] [pid 30156] [client 74.208.2.224:49137] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-cron.php' not found or unable to stat
+[Thu May 02 21:26:57.618539 2024] [:error] [pid 8113] [client 210.228.48.111:57562] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-head.php' not found or unable to stat
+[Thu May 02 21:27:19.003421 2024] [:error] [pid 4216] [client 210.228.48.111:33674] script '/var/www/vhosts/www.rndsquared.com/htdocs/index.php' not found or unable to stat
+[Thu May 02 21:28:53.510921 2024] [:error] [pid 8131] [client 210.228.48.111:56420] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-checkbex.php' not found or unable to stat
+[Fri May 03 11:51:08.162848 2024] [:error] [pid 30155] [client 104.200.151.147:33698] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Fri May 03 23:05:47.923470 2024] [:error] [pid 8135] [client 66.115.142.157:33386] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Sat May 04 21:06:34.635165 2024] [:error] [pid 30153] [client 63.247.141.231:44698] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Sun May 05 00:58:40.115689 2024] [:error] [pid 8467] [client 103.212.98.210:55741] script '/var/www/vhosts/www.rndsquared.com/htdocs/index.php' not found or unable to stat
+[Sun May 05 01:22:14.484330 2024] [:error] [pid 30154] [client 122.228.8.198:58494] script '/var/www/vhosts/www.rndsquared.com/htdocs/login.php' not found or unable to stat
+[Sun May 05 04:35:36.350517 2024] [:error] [pid 8112] [client 139.59.239.232:49536] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Sun May 05 09:32:50.469171 2024] [:error] [pid 8467] [client 119.188.246.142:50419] script '/var/www/vhosts/www.rndsquared.com/htdocs/login.php' not found or unable to stat
+[Sun May 05 11:46:57.792837 2024] [:error] [pid 30152] [client 47.106.201.134:50734] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://www.rndsquared.com/wp-login.php
+[Sun May 05 20:39:35.606285 2024] [ssl:error] [pid 30150] AH02032: Hostname rndsquared.com provided via SNI and hostname www.rndsquared.com provided via HTTP are different
+[Mon May 06 03:52:06.185930 2024] [:error] [pid 30150] [client 34.102.46.237:59878] script '/var/www/vhosts/www.rndsquared.com/htdocs/xmlrpc.php' not found or unable to stat
+[Mon May 06 11:56:25.061516 2024] [:error] [pid 24157] [client 34.175.145.201:35386] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://www.rndsquared.com/wp-login.php
+[Mon May 06 15:50:12.916119 2024] [:error] [pid 24156] [client 91.205.17.174:33280] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://rndsquared.com/wp-login.php
+[Mon May 06 19:21:34.073780 2024] [:error] [pid 14729] [client 198.98.50.195:50500] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://www.google.com.hk
+[Tue May 07 04:10:26.189414 2024] [:error] [pid 24156] [client 119.188.246.142:58908] script '/var/www/vhosts/www.rndsquared.com/htdocs/admin.php' not found or unable to stat
+[Tue May 07 22:46:30.118523 2024] [:error] [pid 24158] [client 38.45.123.38:63516] script '/var/www/vhosts/www.rndsquared.com/htdocs/login.php' not found or unable to stat
+[Tue May 07 23:09:43.035761 2024] [:error] [pid 28089] [client 185.196.220.26:19204] script '/var/www/vhosts/www.rndsquared.com/htdocs/proxy.php' not found or unable to stat, referer: http://rndsquared.com/proxy.php?link=https://www.pornhub.com/
+[Wed May 08 15:07:53.534464 2024] [:error] [pid 28092] [client 5.188.87.47:43632] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://rndsquared.com/wp-login.php
+[Wed May 08 15:14:14.848041 2024] [:error] [pid 24155] [client 69.194.180.234:37280] script '/var/www/vhosts/www.rndsquared.com/htdocs/db.php' not found or unable to stat
+[Thu May 09 02:03:06.416787 2024] [:error] [pid 24159] [client 185.196.220.26:7822] script '/var/www/vhosts/www.rndsquared.com/htdocs/proxy.php' not found or unable to stat, referer: http://rndsquared.com/proxy.php?link=https://www.mqrjvwam4pfn.com/
+[Thu May 09 11:57:00.752182 2024] [:error] [pid 19356] [client 97.74.91.90:57698] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://rndsquared.com/wp-login.php
+[Thu May 09 12:05:00.675818 2024] [:error] [pid 19350] [client 150.95.83.97:40406] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://www.rndsquared.com/wp-login.php
+[Thu May 09 17:32:05.878340 2024] [core:error] [pid 19356] [client 91.192.168.36:51417] AH00126: Invalid URI in request GET www.rndsquared.com HTTP/1.0
+[Fri May 10 08:41:21.544958 2024] [:error] [pid 19346] [client 194.164.20.46:60788] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://rndsquared.com/wp-login.php
+[Fri May 10 12:05:16.831287 2024] [:error] [pid 19349] [client 84.247.105.106:37694] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Sat May 11 22:13:13.143432 2024] [:error] [pid 21543] [client 119.188.246.142:51742] script '/var/www/vhosts/www.rndsquared.com/htdocs/login.php' not found or unable to stat
+[Sun May 12 07:54:21.138134 2024] [:error] [pid 28005] [client 194.38.23.16:58017] script '/var/www/vhosts/www.rndsquared.com/htdocs/index.php' not found or unable to stat
+[Sun May 12 08:50:42.909413 2024] [:error] [pid 28001] [client 62.72.46.177:53518] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/index.php' not found or unable to stat
+[Sun May 12 11:40:05.895334 2024] [:error] [pid 28002] [client 193.3.167.202:41406] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://www.rndsquared.com/wp-login.php
+[Sun May 12 13:44:51.723273 2024] [:error] [pid 28001] [client 110.4.41.246:36256] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://rndsquared.com/wp-login.php
+[Sun May 12 21:29:21.657948 2024] [:error] [pid 7313] [client 119.188.246.142:63987] script '/var/www/vhosts/www.rndsquared.com/htdocs/api.php' not found or unable to stat
+[Mon May 13 00:35:52.416291 2024] [:error] [pid 7357] [client 119.188.240.22:64136] script '/var/www/vhosts/www.rndsquared.com/htdocs/admin.php' not found or unable to stat
+[Mon May 13 09:22:09.579463 2024] [:error] [pid 7336] [client 195.175.22.38:43428] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://rndsquared.com/wp-login.php
+[Mon May 13 21:41:02.646187 2024] [:error] [pid 7305] [client 91.92.244.81:63089] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-ver.php' not found or unable to stat, referer: https://www.google.com
+[Mon May 13 21:43:00.431675 2024] [:error] [pid 7351] [client 91.92.244.81:51512] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-term.php' not found or unable to stat, referer: https://www.google.com
+[Tue May 14 14:41:45.616662 2024] [:error] [pid 7334] [client 67.222.157.170:40958] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://www.rndsquared.com/wp-login.php
+[Tue May 14 20:14:29.653100 2024] [:error] [pid 7336] [client 165.22.58.178:38666] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://rndsquared.com/wp-login.php
+[Wed May 15 09:59:11.577930 2024] [:error] [pid 7344] [client 174.138.166.210:49960] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://rndsquared.com/wp-login.php
+[Thu May 16 09:05:10.379333 2024] [:error] [pid 7305] [client 194.38.23.16:62325] script '/var/www/vhosts/www.rndsquared.com/htdocs/index.php' not found or unable to stat
+[Thu May 16 11:56:50.300558 2024] [ssl:error] [pid 28008] AH02032: Hostname rndsquared.com provided via SNI and hostname www.rndsquared.com provided via HTTP are different
+[Thu May 16 18:30:22.722691 2024] [:error] [pid 7322] [client 109.123.233.89:65014] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/index.php' not found or unable to stat
+[Fri May 17 11:21:59.479714 2024] [:error] [pid 7313] [client 178.238.234.23:37310] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://www.rndsquared.com/wp-login.php
+[Fri May 17 14:51:42.494936 2024] [:error] [pid 7322] [client 107.170.47.77:54564] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://rndsquared.com/wp-login.php
+[Fri May 17 18:00:58.786825 2024] [:error] [pid 7322] [client 178.159.37.16:55322] script '/var/www/vhosts/www.rndsquared.com/htdocs/archivarix.cms.php' not found or unable to stat, referer: https://www.rndsquared.com/archivarix.cms.php
+[Sat May 18 05:47:34.557371 2024] [:error] [pid 7331] [client 172.98.89.178:55374] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Sat May 18 15:22:37.731824 2024] [:error] [pid 7331] [client 50.63.15.171:43444] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Sat May 18 23:12:53.113733 2024] [:error] [pid 7313] [client 115.223.43.223:59118] script '/var/www/vhosts/www.rndsquared.com/htdocs/login.php' not found or unable to stat
+[Mon May 20 09:17:15.816593 2024] [:error] [pid 31883] [client 47.113.196.78:55394] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://rndsquared.com/wp-login.php
+[Mon May 20 09:23:52.627537 2024] [:error] [pid 31878] [client 187.0.210.61:49464] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://www.rndsquared.com/wp-login.php
+[Mon May 20 14:28:06.410774 2024] [:error] [pid 16409] [client 62.21.25.154:50688] script '/var/www/vhosts/www.rndsquared.com/htdocs/index.php' not found or unable to stat
+[Mon May 20 14:28:24.784162 2024] [:error] [pid 3012] [client 62.21.25.154:39096] script '/var/www/vhosts/www.rndsquared.com/htdocs/rss.php' not found or unable to stat
+[Tue May 21 06:02:08.154512 2024] [:error] [pid 3014] [client 91.237.81.8:60464] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://rndsquared.com/wp-login.php
+[Wed May 22 09:42:14.744967 2024] [ssl:error] [pid 16409] AH02032: Hostname rndsquared.com provided via SNI and hostname www.rndsquared.com provided via HTTP are different
+[Wed May 22 10:56:02.081660 2024] [:error] [pid 31884] [client 162.19.230.241:59694] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://www.rndsquared.com/wp-login.php
+[Wed May 22 12:16:43.435244 2024] [:error] [pid 3012] [client 139.59.209.23:59604] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://rndsquared.com/wp-login.php
+[Wed May 22 13:26:22.766053 2024] [ssl:error] [pid 3014] AH02032: Hostname rndsquared.com provided via SNI and hostname www.rndsquared.com provided via HTTP are different
+[Wed May 22 14:13:24.002448 2024] [:error] [pid 31878] [client 84.247.105.108:55140] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Wed May 22 22:10:03.205001 2024] [:error] [pid 31880] [client 150.109.254.243:53699] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Wed May 22 22:10:03.535683 2024] [:error] [pid 31880] [client 150.109.254.243:53699] script '/var/www/vhosts/www.rndsquared.com/htdocs/login.php' not found or unable to stat
+[Wed May 22 22:10:04.196881 2024] [:error] [pid 31880] [client 150.109.254.243:53699] script '/var/www/vhosts/www.rndsquared.com/htdocs/index.php' not found or unable to stat
+[Wed May 22 22:10:06.522324 2024] [:error] [pid 31880] [client 150.109.254.243:53699] script '/var/www/vhosts/www.rndsquared.com/htdocs/login.php' not found or unable to stat
+[Wed May 22 22:10:06.852878 2024] [:error] [pid 31880] [client 150.109.254.243:53699] script '/var/www/vhosts/www.rndsquared.com/htdocs/admin.php' not found or unable to stat
+[Wed May 22 22:10:08.175420 2024] [:error] [pid 31880] [client 150.109.254.243:53699] script '/var/www/vhosts/www.rndsquared.com/htdocs/admin.php' not found or unable to stat
+[Wed May 22 22:53:41.732036 2024] [:error] [pid 31881] [client 27.124.42.160:55011] script '/var/www/vhosts/www.rndsquared.com/htdocs/admin.php' not found or unable to stat
+[Wed May 22 23:51:34.319940 2024] [:error] [pid 31879] [client 45.125.44.34:49235] script '/var/www/vhosts/www.rndsquared.com/htdocs/login.php' not found or unable to stat
+[Wed May 22 23:52:12.134371 2024] [:error] [pid 3011] [client 202.189.6.223:53197] script '/var/www/vhosts/www.rndsquared.com/htdocs/api.php' not found or unable to stat
+[Thu May 23 00:15:46.382007 2024] [:error] [pid 31882] [client 45.125.45.209:63709] script '/var/www/vhosts/www.rndsquared.com/htdocs/user.php' not found or unable to stat
+[Thu May 23 03:26:35.769418 2024] [:error] [pid 3010] [client 222.211.73.130:49421] script '/var/www/vhosts/www.rndsquared.com/htdocs/index.php' not found or unable to stat
+[Thu May 23 08:57:27.367915 2024] [:error] [pid 29683] [client 212.38.40.210:57616] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://rndsquared.com/wp-login.php
+[Thu May 23 16:00:42.675530 2024] [:error] [pid 3012] [client 91.92.244.81:49162] script '/var/www/vhosts/www.rndsquared.com/htdocs/bless.php' not found or unable to stat, referer: www.google.com
+[Thu May 23 18:45:38.364367 2024] [:error] [pid 29653] [client 161.97.148.58:48338] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://www.rndsquared.com/wp-login.php
+[Fri May 24 01:04:26.132251 2024] [:error] [pid 29189] [client 191.96.150.203:56810] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Fri May 24 17:02:45.892263 2024] [:error] [pid 29300] [client 165.227.61.67:51484] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://www.rndsquared.com/wp-login.php
+[Sat May 25 09:42:22.457490 2024] [:error] [pid 29182] [client 66.115.142.157:44562] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Sat May 25 15:40:16.381127 2024] [:error] [pid 16409] [client 91.92.244.81:64888] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-add.php' not found or unable to stat, referer: www.google.com
+[Sun May 26 10:08:33.054883 2024] [:error] [pid 23082] [client 109.206.207.109:55386] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://www.rndsquared.com/wp-login.php
+[Sun May 26 13:54:34.541022 2024] [:error] [pid 23078] [client 193.176.86.61:40954] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Sun May 26 15:06:12.296368 2024] [:error] [pid 13405] [client 173.239.236.31:26781] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/fierzashell.php' not found or unable to stat
+[Sun May 26 15:06:38.886049 2024] [:error] [pid 23082] [client 173.239.236.49:62847] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/wso112233.php' not found or unable to stat
+[Sun May 26 15:06:40.517927 2024] [:error] [pid 23082] [client 173.239.236.49:62847] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/shell20211028.php' not found or unable to stat
+[Sun May 26 15:06:42.141754 2024] [:error] [pid 23082] [client 173.239.236.49:62847] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/bala.php' not found or unable to stat
+[Sun May 26 15:07:09.315478 2024] [:error] [pid 23075] [client 173.239.236.10:13265] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/admin.php' not found or unable to stat
+[Sun May 26 15:07:28.252546 2024] [:error] [pid 23078] [client 173.239.236.17:41227] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/alujfslh.php' not found or unable to stat
+[Sun May 26 15:07:29.468866 2024] [:error] [pid 23078] [client 173.239.236.17:41227] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/plugins.php' not found or unable to stat
+[Sun May 26 15:07:31.074205 2024] [:error] [pid 23078] [client 173.239.236.17:41227] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/leaf.php' not found or unable to stat
+[Sun May 26 15:07:32.844777 2024] [:error] [pid 23078] [client 173.239.236.17:41227] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/gif.php' not found or unable to stat
+[Sun May 26 15:07:35.388343 2024] [:error] [pid 23078] [client 173.239.236.17:41227] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/about.php' not found or unable to stat
+[Sun May 26 15:07:45.400128 2024] [:error] [pid 23081] [client 173.239.236.35:64603] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/css.php' not found or unable to stat
+[Sun May 26 15:07:59.877447 2024] [:error] [pid 23081] [client 173.239.236.35:64603] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/wp-scripts.php' not found or unable to stat
+[Sun May 26 15:08:06.293691 2024] [:error] [pid 3427] [client 173.239.236.14:37409] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/gix.php' not found or unable to stat
+[Sun May 26 15:08:43.831384 2024] [:error] [pid 3270] [client 173.239.236.10:1657] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/poamvuap.php' not found or unable to stat
+[Sun May 26 15:08:50.850161 2024] [:error] [pid 3270] [client 173.239.236.10:1657] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/mar.php' not found or unable to stat
+[Sun May 26 15:08:54.120998 2024] [:error] [pid 3270] [client 173.239.236.10:1657] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/ez.php' not found or unable to stat
+[Sun May 26 15:09:17.244066 2024] [:error] [pid 3262] [client 173.239.236.4:46609] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/y.php' not found or unable to stat
+[Sun May 26 15:09:35.832073 2024] [:error] [pid 13405] [client 173.239.236.13:28909] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/doc.php' not found or unable to stat
+[Sun May 26 15:09:42.239010 2024] [:error] [pid 13405] [client 173.239.236.13:28909] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/options.php' not found or unable to stat
+[Sun May 26 15:09:46.538928 2024] [:error] [pid 13405] [client 173.239.236.13:28909] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/gtteeflx.php' not found or unable to stat
+[Sun May 26 15:10:01.858207 2024] [:error] [pid 23076] [client 173.239.236.27:11523] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/effgvgee.php' not found or unable to stat
+[Sun May 26 15:10:09.526276 2024] [:error] [pid 23076] [client 173.239.236.27:11523] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/wp-2019.php' not found or unable to stat
+[Sun May 26 15:10:15.593386 2024] [:error] [pid 23080] [client 173.239.236.33:26563] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/themes.php' not found or unable to stat
+[Sun May 26 15:10:19.613979 2024] [:error] [pid 23080] [client 173.239.236.33:26563] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/emakoozr.php' not found or unable to stat
+[Sun May 26 15:10:30.737685 2024] [:error] [pid 23080] [client 173.239.236.33:26563] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/top.php' not found or unable to stat
+[Sun May 26 15:10:35.269814 2024] [:error] [pid 23082] [client 173.239.236.37:62549] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/ax7ges.php' not found or unable to stat
+[Sun May 26 15:10:35.957526 2024] [:error] [pid 23082] [client 173.239.236.37:62549] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/notice.php' not found or unable to stat
+[Sun May 26 15:10:40.571522 2024] [:error] [pid 23082] [client 173.239.236.37:62549] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/exit.php' not found or unable to stat
+[Sun May 26 15:10:49.947250 2024] [:error] [pid 23082] [client 173.239.236.37:62549] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/alfanew.php' not found or unable to stat
+[Sun May 26 15:10:50.631416 2024] [:error] [pid 23082] [client 173.239.236.37:62549] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/chosen.php' not found or unable to stat
+[Sun May 26 15:10:52.699226 2024] [:error] [pid 23082] [client 173.239.236.37:62549] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/shelo.php' not found or unable to stat
+[Sun May 26 15:10:53.103184 2024] [:error] [pid 23082] [client 173.239.236.37:62549] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/donfvmab.php' not found or unable to stat
+[Sun May 26 15:10:59.411695 2024] [:error] [pid 13406] [client 173.239.236.39:45645] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/atomlib.php' not found or unable to stat
+[Sun May 26 15:11:05.880863 2024] [:error] [pid 13406] [client 173.239.236.39:45645] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/mpqlfaxr.php' not found or unable to stat
+[Sun May 26 15:11:24.771149 2024] [:error] [pid 1384] [client 173.239.236.25:15413] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/icxolkwa.php' not found or unable to stat
+[Sun May 26 15:11:26.039907 2024] [:error] [pid 1384] [client 173.239.236.25:15413] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/content.php' not found or unable to stat
+[Sun May 26 15:11:29.254432 2024] [:error] [pid 1384] [client 173.239.236.25:15413] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/attyogmb.php' not found or unable to stat
+[Sun May 26 15:11:32.722223 2024] [:error] [pid 1384] [client 173.239.236.25:15413] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/wp-conflg.php' not found or unable to stat
+[Sun May 26 15:11:41.233795 2024] [:error] [pid 1384] [client 173.239.236.25:15413] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/dze.php' not found or unable to stat
+[Sun May 26 15:11:42.433907 2024] [:error] [pid 1384] [client 173.239.236.25:15413] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/gf.php' not found or unable to stat
+[Sun May 26 15:11:43.023618 2024] [:error] [pid 1384] [client 173.239.236.25:15413] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/wp-inda.php' not found or unable to stat
+[Sun May 26 15:11:45.278123 2024] [:error] [pid 23081] [client 173.239.236.2:9965] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/ioxi01.php' not found or unable to stat
+[Sun May 26 15:11:56.964914 2024] [:error] [pid 23081] [client 173.239.236.2:9965] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/utchiha505.php' not found or unable to stat
+[Sun May 26 15:15:16.053574 2024] [:error] [pid 1384] [client 173.239.236.3:52079] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/mini.php' not found or unable to stat
+[Sun May 26 15:15:24.355337 2024] [:error] [pid 23075] [client 173.239.236.18:21161] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/index.php' not found or unable to stat
+[Sun May 26 15:15:24.541792 2024] [:error] [pid 23075] [client 173.239.236.18:21161] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/index.php' not found or unable to stat
+[Sun May 26 15:15:25.136493 2024] [:error] [pid 23075] [client 173.239.236.18:21161] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/server.php' not found or unable to stat
+[Sun May 26 15:15:28.940201 2024] [:error] [pid 23075] [client 173.239.236.18:21161] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/install.php' not found or unable to stat
+[Sun May 26 15:15:29.705792 2024] [:error] [pid 23075] [client 173.239.236.18:21161] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/prayer_intentions.php' not found or unable to stat
+[Sun May 26 15:15:33.835910 2024] [:error] [pid 23075] [client 173.239.236.18:21161] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/mi.php' not found or unable to stat
+[Sun May 26 15:15:34.246271 2024] [:error] [pid 23075] [client 173.239.236.18:21161] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/rendi59.php' not found or unable to stat
+[Sun May 26 15:15:39.233212 2024] [:error] [pid 3427] [client 173.239.236.7:42019] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/3ud0af.php' not found or unable to stat
+[Sun May 26 15:15:47.085154 2024] [:error] [pid 3427] [client 173.239.236.7:42019] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/classwithtostring.php' not found or unable to stat
+[Sun May 26 15:15:47.283652 2024] [:error] [pid 3427] [client 173.239.236.7:42019] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/js.php' not found or unable to stat
+[Sun May 26 15:15:48.744812 2024] [:error] [pid 3427] [client 173.239.236.7:42019] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/class.api.php' not found or unable to stat
+[Sun May 26 15:16:07.461860 2024] [:error] [pid 23077] [client 173.239.236.32:12063] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/ema.php' not found or unable to stat
+[Sun May 26 15:16:08.502869 2024] [:error] [pid 23077] [client 173.239.236.32:12063] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/network.php' not found or unable to stat
+[Sun May 26 15:16:14.914450 2024] [:error] [pid 23077] [client 173.239.236.32:12063] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/heex.php' not found or unable to stat
+[Sun May 26 15:16:24.703212 2024] [:error] [pid 23078] [client 173.239.236.31:6353] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/class_api.php' not found or unable to stat
+[Sun May 26 15:16:28.028337 2024] [:error] [pid 23078] [client 173.239.236.31:6353] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/users.php' not found or unable to stat
+[Sun May 26 15:17:11.705883 2024] [:error] [pid 3262] [client 173.239.236.11:57705] script '/var/www/vhosts/www.rndsquared.com/htdocs/.well-known/classwithtostring.php' not found or unable to stat
+[Sun May 26 20:06:07.251057 2024] [:error] [pid 23075] [client 181.214.153.36:43324] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Sun May 26 21:35:38.687230 2024] [ssl:error] [pid 23075] AH02032: Hostname rndsquared.com provided via SNI and hostname www.rndsquared.com provided via HTTP are different
+[Mon May 27 09:18:45.867355 2024] [:error] [pid 13405] [client 175.178.100.123:53608] script '/var/www/vhosts/www.rndsquared.com/htdocs/xmlrpc.php' not found or unable to stat
+[Mon May 27 10:08:41.502909 2024] [:error] [pid 23077] [client 175.178.100.123:60442] script '/var/www/vhosts/www.rndsquared.com/htdocs/xmlrpc.php' not found or unable to stat
+[Mon May 27 10:58:27.392853 2024] [:error] [pid 23080] [client 45.148.10.232:38568] script '/var/www/vhosts/www.rndsquared.com/htdocs/phpinfo.php' not found or unable to stat
+[Tue May 28 02:01:21.881939 2024] [:error] [pid 3427] [client 23.95.39.57:35224] script '/var/www/vhosts/www.rndsquared.com/htdocs/index.php' not found or unable to stat
+[Tue May 28 09:06:43.236226 2024] [:error] [pid 23081] [client 107.189.14.233:57752] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://www.google.com.hk
+[Tue May 28 13:47:13.378590 2024] [:error] [pid 3427] [client 23.26.220.28:44236] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Tue May 28 14:33:20.005531 2024] [:error] [pid 23077] [client 191.96.227.209:37988] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Tue May 28 21:48:51.763699 2024] [:error] [pid 23081] [client 115.223.43.11:63199] script '/var/www/vhosts/www.rndsquared.com/htdocs/login.php' not found or unable to stat
+[Wed May 29 11:48:35.473397 2024] [:error] [pid 23077] [client 23.26.220.28:48210] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Wed May 29 13:45:33.124615 2024] [:error] [pid 13406] [client 122.152.237.34:37248] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://rndsquared.com/wp-login.php
+[Wed May 29 21:50:29.478278 2024] [:error] [pid 23078] [client 116.90.60.141:42530] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Thu May 30 00:09:02.115846 2024] [authz_core:error] [pid 16767] [client 64.226.78.121:35234] AH01630: client denied by server configuration: /var/www/vhosts/www.rndsquared.com/htdocs/server-status
+[Thu May 30 00:41:26.861026 2024] [:error] [pid 16800] [client 154.16.192.199:49812] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Thu May 30 14:54:06.359443 2024] [:error] [pid 16755] [client 84.247.105.106:41498] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Fri May 31 03:14:51.132999 2024] [:error] [pid 16738] [client 213.232.87.234:40635] script '/var/www/vhosts/www.rndsquared.com/htdocs/phpinfo.php' not found or unable to stat, referer: https://rndsquared.com/phpinfo.php
+[Fri May 31 03:14:51.135039 2024] [:error] [pid 16741] [client 213.232.87.234:36743] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-config.php' not found or unable to stat, referer: https://rndsquared.com/wp-config.php
+[Fri May 31 03:14:51.144594 2024] [:error] [pid 16779] [client 213.232.87.234:27917] script '/var/www/vhosts/www.rndsquared.com/htdocs/config.php' not found or unable to stat, referer: https://rndsquared.com/config.php
+[Fri May 31 03:14:51.167456 2024] [authz_core:error] [pid 16740] [client 213.232.87.234:60683] AH01630: client denied by server configuration: /var/www/vhosts/www.rndsquared.com/htdocs/server-status, referer: https://rndsquared.com/server-status
+[Fri May 31 06:01:51.515755 2024] [:error] [pid 16798] [client 193.176.86.41:40506] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Fri May 31 20:16:12.241355 2024] [:error] [pid 16731] [client 81.94.156.169:33924] script '/var/www/vhosts/www.rndsquared.com/htdocs/up.php' not found or unable to stat
+[Sat Jun 01 03:22:22.063117 2024] [:error] [pid 16740] [client 178.159.37.16:51364] script '/var/www/vhosts/www.rndsquared.com/htdocs/archivarix.cms.php' not found or unable to stat, referer: https://www.rndsquared.com/archivarix.cms.php

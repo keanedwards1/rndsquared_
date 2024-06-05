@@ -1,0 +1,1 @@
+[Thu Jun 28 17:51:39.760894 2018] [:error] [pid 6753] [client 115.29.76.145:4730] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat

@@ -1,0 +1,2 @@
+[Sat Nov 16 21:37:40.406281 2019] [:error] [pid 19328] [client 120.27.37.74:4591] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Sun Nov 24 01:18:32.987685 2019] [:error] [pid 6575] [client 46.105.99.163:53146] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://www.google.com.hk

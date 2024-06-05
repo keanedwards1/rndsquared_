@@ -1,0 +1,2 @@
+[Sat May 05 20:37:47.930230 2018] [:error] [pid 8821] [client 121.42.152.155:65205] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Sun May 06 02:10:40.309079 2018] [ssl:error] [pid 29407] AH02032: Hostname rndsquared.com:443 provided via SNI and hostname rndsquared.com provided via HTTP are different

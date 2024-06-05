@@ -1,0 +1,15 @@
+[Fri Dec 01 05:55:46.834285 2017] [ssl:error] [pid 21050] [client 207.46.13.73:8314] AH02261: Re-negotiation handshake failed
+[Sun Dec 03 11:05:43.987833 2017] [:error] [pid 24418] [client 198.100.149.189:50534] script '/var/www/vhosts/www.rndsquared.com/htdocs/license.php' not found or unable to stat
+[Sun Dec 03 11:05:44.397314 2017] [:error] [pid 24413] [client 198.100.149.189:51108] script '/var/www/vhosts/www.rndsquared.com/htdocs/license.php' not found or unable to stat
+[Sun Dec 03 15:28:05.932392 2017] [:error] [pid 24413] [client 77.38.80.59:64640] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Thu Dec 07 02:28:25.752669 2017] [ssl:error] [pid 24414] AH02032: Hostname 128.177.11.63:443 provided via SNI and hostname rndsquared.com provided via HTTP are different
+[Mon Dec 11 10:02:09.871985 2017] [:error] [pid 15883] [client 90.42.251.139:56785] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Wed Dec 13 07:46:55.300323 2017] [ssl:error] [pid 15885] [client 157.55.39.13:1625] AH02261: Re-negotiation handshake failed
+[Sat Dec 16 10:32:57.921069 2017] [ssl:error] [pid 26248] [client 137.226.113.27:44624] AH02261: Re-negotiation handshake failed
+[Sat Dec 16 10:32:57.921141 2017] [ssl:error] [pid 26248] SSL Library Error: error:14094153:SSL routines:ssl3_read_bytes:no renegotiation
+[Mon Dec 18 12:35:16.786313 2017] [:error] [pid 18786] [client 198.100.149.189:53493] script '/var/www/vhosts/www.rndsquared.com/htdocs/up.php' not found or unable to stat
+[Mon Dec 18 12:35:17.182473 2017] [:error] [pid 18788] [client 198.100.149.189:53618] script '/var/www/vhosts/www.rndsquared.com/htdocs/up.php' not found or unable to stat
+[Fri Dec 22 02:31:35.779043 2017] [:error] [pid 18184] [client 5.9.158.75:53412] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Fri Dec 22 02:31:44.477222 2017] [:error] [pid 18786] [client 200.122.181.101:49926] script '/var/www/vhosts/www.rndsquared.com/htdocs/index.php' not found or unable to stat
+[Sat Dec 23 12:56:09.955183 2017] [ssl:error] [pid 18793] [client 137.226.113.27:60716] AH02261: Re-negotiation handshake failed
+[Sat Dec 23 12:56:09.955287 2017] [ssl:error] [pid 18793] SSL Library Error: error:14094153:SSL routines:ssl3_read_bytes:no renegotiation

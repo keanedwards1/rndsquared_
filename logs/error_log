@@ -1,0 +1,10 @@
+[Sun Jun 02 02:57:20.294196 2024] [:error] [pid 21218] [client 107.189.5.180:63643] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://www.google.com.hk
+[Sun Jun 02 09:29:38.525303 2024] [:error] [pid 21070] [client 23.26.220.24:40724] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Sun Jun 02 14:54:44.990233 2024] [:error] [pid 21081] [client 182.92.152.95:41784] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://rndsquared.com/wp-login.php
+[Sun Jun 02 19:04:49.384050 2024] [ssl:error] [pid 21079] AH02032: Hostname varia3.com provided via SNI and hostname www.rndsquared.com provided via HTTP are different
+[Mon Jun 03 12:01:55.403373 2024] [:error] [pid 21070] [client 66.115.142.189:52852] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Mon Jun 03 16:35:36.490229 2024] [ssl:error] [pid 21070] AH02032: Hostname rndsquared.com provided via SNI and hostname www.rndsquared.com provided via HTTP are different
+[Tue Jun 04 17:31:17.527343 2024] [:error] [pid 27138] [client 91.92.244.81:61402] script '/var/www/vhosts/www.rndsquared.com/htdocs/simple.php' not found or unable to stat
+[Tue Jun 04 17:31:33.140670 2024] [:error] [pid 27137] [client 91.92.244.81:52609] script '/var/www/vhosts/www.rndsquared.com/htdocs/inputs.php' not found or unable to stat
+[Tue Jun 04 17:31:58.953617 2024] [:error] [pid 21079] [client 91.92.244.81:50166] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-add.php' not found or unable to stat
+[Tue Jun 04 17:34:06.566349 2024] [:error] [pid 8164] [client 91.92.244.81:59825] script '/var/www/vhosts/www.rndsquared.com/htdocs/atomlib.php' not found or unable to stat

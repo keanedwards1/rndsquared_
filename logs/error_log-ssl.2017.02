@@ -1,0 +1,50 @@
+[Wed Feb 01 10:18:51.553712 2017] [ssl:error] [pid 30786] [client 180.76.15.147:21797] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Wed Feb 01 10:52:11.557145 2017] [ssl:error] [pid 30785] [client 202.46.54.136:13666] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Wed Feb 01 20:50:44.714405 2017] [ssl:error] [pid 12470] [client 123.125.71.48:32981] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Sat Feb 04 05:16:20.544574 2017] [ssl:error] [pid 30779] [client 220.181.108.112:31459] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Sat Feb 04 22:12:10.866719 2017] [ssl:error] [pid 23454] [client 180.76.15.34:30165] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Sat Feb 04 22:45:30.953087 2017] [ssl:error] [pid 30785] [client 202.46.50.14:33246] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Sun Feb 05 09:18:18.639878 2017] [ssl:error] [pid 27120] [client 180.76.15.138:22878] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Mon Feb 06 05:28:13.697734 2017] [:error] [pid 27120] [client 190.196.9.114:55513] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Mon Feb 06 09:42:58.191692 2017] [ssl:error] [pid 3645] [client 123.125.71.91:34812] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Mon Feb 06 13:22:15.058865 2017] [ssl:error] [pid 3645] [client 220.181.108.109:43065] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Mon Feb 06 20:54:35.133359 2017] [ssl:error] [pid 27120] [client 180.76.15.29:22700] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Mon Feb 06 22:25:15.627381 2017] [ssl:error] [pid 27127] [client 202.46.51.186:23704] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Tue Feb 07 00:39:10.895472 2017] [ssl:error] [pid 27125] [client 131.161.10.219:50841] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Tue Feb 07 20:20:48.361348 2017] [ssl:error] [pid 15772] [client 220.181.108.139:10982] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Wed Feb 08 15:59:13.415632 2017] [ssl:error] [pid 16634] [client 180.76.15.11:46784] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Wed Feb 08 16:32:33.433794 2017] [ssl:error] [pid 27120] [client 202.46.55.150:50374] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Thu Feb 09 04:01:49.422541 2017] [ssl:error] [pid 20883] [client 207.46.13.201:3375] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Thu Feb 09 22:09:41.032417 2017] [ssl:error] [pid 3644] [client 123.125.71.19:25107] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Sun Feb 12 07:11:11.775825 2017] [ssl:error] [pid 21373] [client 180.76.15.145:29686] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Sun Feb 12 07:44:32.221000 2017] [ssl:error] [pid 21374] [client 202.46.52.74:56163] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Sun Feb 12 09:38:58.459040 2017] [ssl:error] [pid 21374] [client 123.125.71.16:35154] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Mon Feb 13 05:57:28.953209 2017] [ssl:error] [pid 3066] [client 180.76.15.12:40873] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Mon Feb 13 06:40:48.418090 2017] [ssl:error] [pid 14042] [client 202.46.48.197:41087] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Mon Feb 13 07:22:52.789361 2017] [ssl:error] [pid 21375] [client 131.161.9.237:55527] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Mon Feb 13 07:45:46.019092 2017] [ssl:error] [pid 21375] [client 131.161.8.246:55424] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Tue Feb 14 06:15:10.902003 2017] [ssl:error] [pid 21380] [client 123.125.71.76:47272] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Thu Feb 16 07:47:59.842847 2017] [ssl:error] [pid 17940] [client 180.76.15.17:41315] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Thu Feb 16 08:21:19.891143 2017] [ssl:error] [pid 17939] [client 202.46.56.184:25198] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Fri Feb 17 02:39:16.989463 2017] [ssl:error] [pid 21380] [client 180.76.15.136:32168] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Fri Feb 17 03:49:35.098044 2017] [ssl:error] [pid 21374] [client 180.76.15.152:54534] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Fri Feb 17 04:36:05.076005 2017] [ssl:error] [pid 21380] [client 202.46.55.63:25300] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Fri Feb 17 05:45:58.960114 2017] [ssl:error] [pid 21380] [client 131.161.11.207:30344] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Tue Feb 21 20:19:23.930699 2017] [:error] [pid 29398] [client 51.15.1.125:48188] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Tue Feb 21 20:19:28.779933 2017] [:error] [pid 29392] [client 51.15.1.125:48660] script '/var/www/vhosts/www.rndsquared.com/htdocs/index.php' not found or unable to stat
+[Thu Feb 23 15:48:51.566683 2017] [ssl:error] [pid 22675] [client 180.76.15.27:23326] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Fri Feb 24 05:48:08.985101 2017] [ssl:error] [pid 29396] [client 185.145.253.134:46532] AH02225: Re-negotiation request failed
+[Fri Feb 24 05:48:08.985137 2017] [ssl:error] [pid 29396] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Fri Feb 24 05:48:09.748064 2017] [ssl:error] [pid 17811] [client 185.145.253.134:47723] AH02225: Re-negotiation request failed
+[Fri Feb 24 05:48:09.748124 2017] [ssl:error] [pid 17811] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Fri Feb 24 19:18:41.118342 2017] [ssl:error] [pid 30314] [client 180.76.15.145:25419] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Fri Feb 24 19:52:01.016139 2017] [ssl:error] [pid 29393] [client 202.46.49.66:35998] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Sat Feb 25 23:20:01.791848 2017] [ssl:error] [pid 29399] AH02032: Hostname us.experteer.com provided via SNI and hostname www.rndsquared.com provided via HTTP are different
+[Sat Feb 25 23:56:16.278120 2017] [ssl:error] [pid 29397] [client 207.46.13.209:19305] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Mon Feb 27 07:03:00.100339 2017] [ssl:error] [pid 26669] [client 180.76.15.138:40207] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Mon Feb 27 07:38:59.045387 2017] [ssl:error] [pid 26666] [client 202.46.57.27:49113] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Tue Feb 28 22:26:25.193186 2017] [:error] [pid 26673] [client 12.129.245.254:51103] script '/var/www/vhosts/www.rndsquared.com/htdocs/N0Wccvvd333.php' not found or unable to stat
+[Tue Feb 28 22:26:25.603591 2017] [:error] [pid 26672] [client 12.129.245.254:1179] script '/var/www/vhosts/www.rndsquared.com/htdocs/N0Wccvvd333.php' not found or unable to stat
+[Tue Feb 28 22:26:27.438487 2017] [:error] [pid 26668] [client 12.129.245.254:35090] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Tue Feb 28 22:26:27.605727 2017] [:error] [pid 26666] [client 12.129.245.254:31268] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-config.php' not found or unable to stat
+[Tue Feb 28 22:26:27.769727 2017] [:error] [pid 26673] [client 12.129.245.254:6018] script '/var/www/vhosts/www.rndsquared.com/htdocs/configuration.php' not found or unable to stat

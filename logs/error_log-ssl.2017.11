@@ -1,0 +1,9 @@
+[Wed Nov 01 07:06:53.867679 2017] [:error] [pid 17250] [client 142.54.187.51:56458] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Sat Nov 04 00:46:32.175111 2017] [:error] [pid 17250] [client 192.187.108.186:54105] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-cros.php' not found or unable to stat
+[Sat Nov 04 00:46:32.878379 2017] [:error] [pid 9167] [client 192.187.108.186:54488] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-cros.php' not found or unable to stat
+[Wed Nov 08 11:44:28.858897 2017] [ssl:error] [pid 21441] [client 157.55.39.6:3446] AH02261: Re-negotiation handshake failed
+[Tue Nov 14 07:22:32.753500 2017] [:error] [pid 3363] [client 83.130.128.192:53622] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Mon Nov 20 05:26:53.194608 2017] [ssl:error] [pid 2856] [client 157.55.39.48:2334] AH02261: Re-negotiation handshake failed
+[Mon Nov 20 07:07:39.374152 2017] [:error] [pid 2850] [client 155.4.230.97:11683] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Mon Nov 20 07:07:47.275332 2017] [:error] [pid 2854] [client 155.4.230.97:39292] script '/var/www/vhosts/www.rndsquared.com/htdocs/index.php' not found or unable to stat
+[Mon Nov 27 19:24:10.648007 2017] [:error] [pid 15587] [client 212.83.182.255:56876] script '/var/www/vhosts/www.rndsquared.com/htdocs/dumper.php' not found or unable to stat

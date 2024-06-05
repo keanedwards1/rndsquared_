@@ -1,0 +1,38 @@
+<div class="wrap">
+    <form name="flash_api_form" method="post" action="[REQUEST_URI]">
+    <h2>[TITLE]</h2>
+    <table class="form-table" style="width: 620px">
+        <tr valign="top">
+        	<td colspan="3">[HELP]</td>
+        </tr>
+        <tr valign="top">
+            <th scope="row">[API_KEY]</th>
+            <td><input type="text" name="flash_api_key" value="[API_KEY_VALUE]" size="55" id="flash_api_key" />[WARNING]</td>
+            <td><input type="button" class="button-secondary" name="generate" id="generate" value="[GENERATE]" /></td>
+        </tr>
+        <tr>
+        	<th scope="row">Codex Category</th>
+            <td colspan="2"><input type="text" name="flash_api_tag" value="[API_TAG]" size="55" id="flash_api_tag" /></td>
+        </tr>
+        <tr>
+        	<th scope="row">Web Service</th>
+            <td colspan="2"><a href="[FUNCTION_FILE]" target="_blank">[FUNCTION_FILE]</a></td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <input type="submit" class="button-primary" name="Submit" value="[UPDATE]" />
+                <input type="hidden" name="action" value="update">
+                <input type="hidden" name="page_options" value="flash_api_key,flash_api_tag" />            
+                [WPNOUNCE]
+            </td>
+        </tr>
+    </table>
+    </form>
+</div>
+<br />
+<hr />
+<div class="wrap">
+	<a name="top"></a><h2>[CODEX]</h2>
+    [DOCS]
+</div>
+	

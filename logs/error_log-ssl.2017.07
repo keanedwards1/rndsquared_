@@ -1,0 +1,14 @@
+[Tue Jul 04 14:02:13.619870 2017] [:error] [pid 24743] [client 49.225.245.55:57026] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Fri Jul 07 19:21:23.312489 2017] [:error] [pid 24744] [client 67.140.124.190:58688] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Sat Jul 08 19:46:07.473964 2017] [ssl:error] [pid 24367] [client 157.55.39.32:1989] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Fri Jul 14 22:41:21.248045 2017] [:error] [pid 4660] [client 91.121.106.53:46185] script '/var/www/vhosts/www.rndsquared.com/htdocs/yt.php' not found or unable to stat, referer: rndsquared.com
+[Fri Jul 14 22:45:55.186683 2017] [:error] [pid 4666] [client 91.121.106.53:33522] script '/var/www/vhosts/www.rndsquared.com/htdocs/rnnvhs.php' not found or unable to stat, referer: rndsquared.com
+[Fri Jul 14 22:46:56.945917 2017] [:error] [pid 18318] [client 91.121.106.53:37062] script '/var/www/vhosts/www.rndsquared.com/htdocs/sample.php' not found or unable to stat, referer: rndsquared.com
+[Fri Jul 14 22:47:21.779958 2017] [:error] [pid 4667] [client 91.121.106.53:38523] script '/var/www/vhosts/www.rndsquared.com/htdocs/sfn.php' not found or unable to stat, referer: rndsquared.com
+[Fri Jul 14 22:48:47.328877 2017] [:error] [pid 4661] [client 91.121.106.53:43318] script '/var/www/vhosts/www.rndsquared.com/htdocs/temp.php' not found or unable to stat, referer: rndsquared.com
+[Fri Jul 14 22:51:17.941228 2017] [:error] [pid 4663] [client 91.121.106.53:52093] script '/var/www/vhosts/www.rndsquared.com/htdocs/images/temp.php' not found or unable to stat, referer: rndsquared.com
+[Fri Jul 14 22:53:07.708416 2017] [:error] [pid 4662] [client 91.121.106.53:58135] script '/var/www/vhosts/www.rndsquared.com/htdocs/index.php' not found or unable to stat, referer: rndsquared.com
+[Thu Jul 20 04:44:38.229759 2017] [:error] [pid 25448] [client 144.217.60.239:36286] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Thu Jul 20 04:44:43.176669 2017] [:error] [pid 25445] [client 144.217.60.239:36602] script '/var/www/vhosts/www.rndsquared.com/htdocs/index.php' not found or unable to stat
+[Wed Jul 26 06:57:06.138844 2017] [ssl:error] [pid 31044] AH02032: Hostname www.partyschnaps.com provided via SNI and hostname www.rndsquared.com provided via HTTP are different
+[Thu Jul 27 08:07:17.818792 2017] [ssl:error] [pid 9187] [client 157.55.39.21:10596] AH02261: Re-negotiation handshake failed: Not accepted by client!?

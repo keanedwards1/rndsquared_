@@ -1,0 +1,4 @@
+[Sun May 10 18:16:22.568824 2020] [:error] [pid 24091] [client 91.121.183.89:58578] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Mon May 18 15:07:28.837177 2020] [:error] [pid 19061] [client 192.99.36.177:55232] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Mon May 25 01:25:17.096815 2020] [:error] [pid 20115] [client 37.59.56.107:62874] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Tue May 26 14:54:10.647606 2020] [:error] [pid 29585] [client 192.99.4.63:54912] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat

@@ -1,0 +1,2 @@
+[Sat Dec 30 13:33:13.882315 2017] [:error] [pid 13179] [client 185.106.121.142:64235] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://rndsquared.com/wp-login.php
+[Sat Dec 30 13:33:14.020244 2017] [:error] [pid 13179] [client 185.106.121.142:64235] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://rndsquared.com/wp-login.php

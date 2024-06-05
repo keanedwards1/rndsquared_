@@ -1,0 +1,6 @@
+[Fri Aug 03 12:13:37.500291 2018] [ssl:error] [pid 6030] AH02032: Hostname 128.177.11.39:443 provided via SNI and hostname rndsquared.com provided via HTTP are different
+[Mon Aug 06 18:08:05.856928 2018] [ssl:error] [pid 27561] AH02032: Hostname 128.177.11.39:443 provided via SNI and hostname rndsquared.com provided via HTTP are different
+[Fri Aug 10 00:34:24.163232 2018] [ssl:error] [pid 831] AH02032: Hostname 128.177.11.39:443 provided via SNI and hostname rndsquared.com provided via HTTP are different
+[Tue Aug 14 06:19:58.638711 2018] [ssl:error] [pid 25844] AH02032: Hostname 128.177.11.39:443 provided via SNI and hostname rndsquared.com provided via HTTP are different
+[Fri Aug 17 21:13:49.680751 2018] [ssl:error] [pid 6179] AH02032: Hostname 128.177.11.39:443 provided via SNI and hostname rndsquared.com provided via HTTP are different
+[Tue Aug 21 13:19:04.354971 2018] [ssl:error] [pid 21348] AH02032: Hostname 128.177.11.39:443 provided via SNI and hostname rndsquared.com provided via HTTP are different

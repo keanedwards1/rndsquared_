@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Contact: https://github.com/ghstwhl/bayhosting
+Encryption: https://keybase.io/ghostwheel/pgp_keys.asc
+Preferred-Languages: English
+
+-----BEGIN PGP SIGNATURE-----
+Comment: GPGTools - http://gpgtools.org
+
+iHUEAREIAB0WIQRKN41WMi+VuN/OQTOK4rhszzQdRgUCX1xUoQAKCRCK4rhszzQd
+RpyqAP9fDn9mv0eVsRJFvSry1OnGGdZyziIeO5NxBlZRY2ZQBQD8CuyLRsBuJOo8
++/TirOnvtV8H4R4VCXJguNOBgQiRdVQ=
+=eMgE
+-----END PGP SIGNATURE-----

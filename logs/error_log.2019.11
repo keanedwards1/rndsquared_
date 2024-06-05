@@ -1,0 +1,39 @@
+[Sun Nov 03 02:37:50.343864 2019] [:error] [pid 29868] [client 129.28.39.234:62169] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Sun Nov 03 05:37:33.356676 2019] [:error] [pid 16520] [client 112.78.3.118:45734] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Tue Nov 05 17:57:51.786625 2019] [:error] [pid 19638] [client 150.95.52.70:43582] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Tue Nov 05 22:55:15.771770 2019] [:error] [pid 19633] [client 192.99.15.139:55406] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Wed Nov 06 04:53:23.229648 2019] [:error] [pid 19645] [client 202.95.11.52:36252] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Wed Nov 06 06:43:53.929007 2019] [:error] [pid 19648] [client 188.166.183.202:40879] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Fri Nov 08 02:46:51.614267 2019] [:error] [pid 19654] [client 45.63.87.193:35795] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Mon Nov 11 10:22:25.064982 2019] [:error] [pid 4911] [client 160.153.247.118:33212] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Mon Nov 11 10:47:10.593566 2019] [:error] [pid 27179] [client 194.61.24.29:52625] script '/var/www/vhosts/www.rndsquared.com/htdocs/xmlrpc.php' not found or unable to stat
+[Mon Nov 11 16:18:38.690347 2019] [:error] [pid 27173] [client 46.101.23.47:34176] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Mon Nov 11 22:44:51.578813 2019] [:error] [pid 4907] [client 31.47.0.131:43420] script '/var/www/vhosts/www.rndsquared.com/htdocs/xmlrpc.php' not found or unable to stat
+[Tue Nov 12 01:25:31.467466 2019] [:error] [pid 27179] [client 45.119.212.222:44378] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Tue Nov 12 05:17:13.669681 2019] [:error] [pid 27175] [client 134.249.141.83:55138] script '/var/www/vhosts/www.rndsquared.com/htdocs/xmlrpc.php' not found or unable to stat
+[Wed Nov 13 04:54:13.860490 2019] [:error] [pid 27174] [client 104.248.217.125:37404] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Fri Nov 15 14:42:40.396741 2019] [:error] [pid 29632] [client 212.109.220.201:50998] script '/var/www/vhosts/www.rndsquared.com/htdocs/xmlrpc.php' not found or unable to stat
+[Sat Nov 16 05:53:30.749184 2019] [:error] [pid 19331] [client 178.128.198.238:53874] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Sat Nov 16 08:31:55.546472 2019] [:error] [pid 26948] [client 178.128.93.106:43894] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Mon Nov 18 04:55:19.788092 2019] [:error] [pid 27179] [client 40.115.156.113:53066] script '/var/www/vhosts/www.rndsquared.com/htdocs/index.php' not found or unable to stat
+[Mon Nov 18 19:50:21.489472 2019] [:error] [pid 5936] [client 54.180.158.198:52922] script '/var/www/vhosts/www.rndsquared.com/htdocs/index.php' not found or unable to stat
+[Tue Nov 19 01:48:22.159649 2019] [:error] [pid 19069] [client 132.232.225.43:65139] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Tue Nov 19 07:25:58.893650 2019] [:error] [pid 6574] [client 69.39.239.21:49182] script '/var/www/vhosts/www.rndsquared.com/htdocs/adminer.php' not found or unable to stat, referer: rndsquared.com
+[Tue Nov 19 07:28:55.375157 2019] [:error] [pid 5939] [client 69.39.239.21:47704] script '/var/www/vhosts/www.rndsquared.com/htdocs/mysql-adminer.php' not found or unable to stat, referer: rndsquared.com
+[Wed Nov 20 09:13:55.417824 2019] [:error] [pid 19067] [client 68.183.65.252:50540] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Wed Nov 20 09:19:12.337885 2019] [:error] [pid 5941] [client 69.55.62.22:54782] script '/var/www/vhosts/www.rndsquared.com/htdocs/index.php' not found or unable to stat, referer: rndsquared.com
+[Wed Nov 20 13:30:44.993998 2019] [:error] [pid 19068] [client 34.76.48.185:41608] script '/var/www/vhosts/www.rndsquared.com/htdocs/install.php' not found or unable to stat
+[Wed Nov 20 22:49:16.860747 2019] [:error] [pid 6578] [client 132.148.90.148:44406] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Thu Nov 21 02:35:42.035223 2019] [:error] [pid 19069] [client 157.245.134.102:44246] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Thu Nov 21 06:07:23.999635 2019] [:error] [pid 19073] [client 138.68.254.125:57595] script '/var/www/vhosts/www.rndsquared.com/htdocs/xmlrpc.php' not found or unable to stat
+[Thu Nov 21 23:02:10.729702 2019] [:error] [pid 5938] [client 109.102.111.20:52658] script '/var/www/vhosts/www.rndsquared.com/htdocs/js/rndmail.php' not found or unable to stat
+[Fri Nov 22 11:06:50.844731 2019] [:error] [pid 6578] [client 157.230.153.203:40560] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Fri Nov 22 22:26:38.499362 2019] [:error] [pid 19069] [client 171.244.21.212:56444] script '/var/www/vhosts/www.rndsquared.com/htdocs/xmlrpc.php' not found or unable to stat
+[Sat Nov 23 07:07:08.661416 2019] [:error] [pid 6578] [client 52.15.212.3:30526] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Sun Nov 24 00:53:05.796108 2019] [:error] [pid 5935] [client 39.98.77.72:62636] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Sun Nov 24 13:35:56.102023 2019] [:error] [pid 18961] [client 166.62.103.202:35238] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Mon Nov 25 01:42:32.104297 2019] [:error] [pid 18963] [client 109.102.111.69:54758] script '/var/www/vhosts/www.rndsquared.com/htdocs/js/rndmail.php' not found or unable to stat
+[Mon Nov 25 22:26:51.813930 2019] [:error] [pid 18964] [client 188.213.49.230:60810] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://rndsquared.com/wp-login.php
+[Mon Nov 25 22:26:52.001986 2019] [:error] [pid 18964] [client 188.213.49.230:60810] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://rndsquared.com/wp-login.php
+[Tue Nov 26 03:40:26.146103 2019] [:error] [pid 18964] [client 194.182.72.214:56346] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Thu Nov 28 20:02:19.221841 2019] [:error] [pid 18964] [client 144.76.174.7:57739] script '/var/www/vhosts/www.rndsquared.com/htdocs/xmlrpc.php' not found or unable to stat

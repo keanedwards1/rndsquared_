@@ -1,0 +1,59 @@
+body{
+	letter-spacing:0.8px;
+	leading:2px;
+    
+}
+h1{
+	display:inline;
+	font-size: 36px;
+	color:#e0ad81;
+}
+h2{
+	display:inline;
+	font-size: 21px;
+	color:#e8ca6e;
+}
+h3{
+	display:block;
+	color:#e8ca6e;
+}
+
+ul{
+	leading:0;
+	margin:0;
+	padding:0;
+	display:inline;
+}
+li{
+	
+	margin:0;
+	padding:0;
+	display:inline;
+}
+img{
+	display:inline;
+	margin:0;
+	padding:0;
+	
+	letter-spacing:0px;
+	leading:0px;
+}
+strong{
+	display: inline;
+	
+	font-family: "Min-Four",
+   	font-style: "regular",
+}
+sup{
+	display: inline;
+	font-family: "GG Superscript",
+   	font-style: "regular",
+}
+a{
+	
+	color:#29395a;
+}
+a:hover{
+	
+	color:#666666;
+}

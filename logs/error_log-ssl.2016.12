@@ -1,0 +1,163 @@
+[Thu Dec 01 04:09:04.133924 2016] [ssl:error] [pid 5849] [client 180.76.15.6:57230] AH02225: Re-negotiation request failed
+[Thu Dec 01 04:09:04.133984 2016] [ssl:error] [pid 5849] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Thu Dec 01 04:42:16.255084 2016] [ssl:error] [pid 6763] [client 180.76.15.142:54505] AH02225: Re-negotiation request failed
+[Thu Dec 01 04:42:16.255137 2016] [ssl:error] [pid 6763] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Thu Dec 01 06:37:12.959168 2016] [ssl:error] [pid 5846] [client 123.125.71.60:22194] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Fri Dec 02 01:29:39.242950 2016] [ssl:error] [pid 6763] [client 180.76.15.146:23938] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Fri Dec 02 02:02:59.069647 2016] [ssl:error] [pid 5851] [client 202.46.56.207:32575] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Fri Dec 02 03:47:56.446441 2016] [ssl:error] [pid 5848] [client 180.76.15.150:14316] AH02225: Re-negotiation request failed
+[Fri Dec 02 03:47:56.446508 2016] [ssl:error] [pid 5848] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Fri Dec 02 20:26:58.157980 2016] [ssl:error] [pid 22505] [client 220.181.108.177:46204] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Sun Dec 04 15:57:22.329112 2016] [ssl:error] [pid 11614] [client 180.76.15.163:35097] AH02225: Re-negotiation request failed
+[Sun Dec 04 15:57:22.329518 2016] [ssl:error] [pid 11614] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Mon Dec 05 04:10:47.313052 2016] [ssl:error] [pid 11614] [client 220.181.51.91:34421] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Mon Dec 05 04:12:18.137994 2016] [ssl:error] [pid 11613] [client 123.125.67.160:10649] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Tue Dec 06 00:14:27.543256 2016] [ssl:error] [pid 11976] [client 180.76.15.138:36600] AH02225: Re-negotiation request failed
+[Tue Dec 06 00:14:27.543328 2016] [ssl:error] [pid 11976] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Tue Dec 06 00:47:44.390028 2016] [ssl:error] [pid 26200] [client 202.46.58.158:60339] AH02225: Re-negotiation request failed
+[Tue Dec 06 00:47:44.390107 2016] [ssl:error] [pid 26200] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Tue Dec 06 01:21:04.070656 2016] [ssl:error] [pid 26201] [client 104.193.89.243:19336] AH02225: Re-negotiation request failed
+[Tue Dec 06 01:21:04.070769 2016] [ssl:error] [pid 26201] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Tue Dec 06 07:38:15.970838 2016] [ssl:error] [pid 11613] [client 180.76.15.12:20273] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Tue Dec 06 08:11:36.013620 2016] [ssl:error] [pid 11619] [client 202.46.58.77:35197] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Tue Dec 06 10:56:21.300393 2016] [ssl:error] [pid 11614] [client 180.76.15.137:50104] AH02225: Re-negotiation request failed
+[Tue Dec 06 10:56:21.300804 2016] [ssl:error] [pid 11614] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Tue Dec 06 10:57:19.635696 2016] [ssl:error] [pid 11615] [client 202.46.48.83:25650] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Tue Dec 06 21:25:58.114662 2016] [ssl:error] [pid 11616] [client 123.125.71.14:21958] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Wed Dec 07 00:51:35.118968 2016] [ssl:error] [pid 29439] [client 180.76.15.23:56962] AH02225: Re-negotiation request failed
+[Wed Dec 07 00:51:35.119021 2016] [ssl:error] [pid 29439] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Wed Dec 07 13:17:23.495325 2016] [:error] [pid 11613] [client 188.186.123.30:51015] script '/var/www/vhosts/www.rndsquared.com/htdocs/N0Wccvvd333.php' not found or unable to stat
+[Wed Dec 07 13:17:26.208728 2016] [:error] [pid 29440] [client 188.186.123.30:51146] script '/var/www/vhosts/www.rndsquared.com/htdocs/N0Wccvvd333.php' not found or unable to stat
+[Wed Dec 07 13:20:00.897006 2016] [:error] [pid 26200] [client 188.186.123.30:60954] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Wed Dec 07 13:20:02.833925 2016] [:error] [pid 11976] [client 188.186.123.30:61144] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-config.php' not found or unable to stat
+[Wed Dec 07 13:20:04.576271 2016] [:error] [pid 11614] [client 188.186.123.30:61292] script '/var/www/vhosts/www.rndsquared.com/htdocs/configuration.php' not found or unable to stat
+[Wed Dec 07 13:20:36.641493 2016] [:error] [pid 29440] [client 188.186.123.30:63819] script '/var/www/vhosts/www.rndsquared.com/htdocs/phpinfo.php' not found or unable to stat
+[Wed Dec 07 13:20:38.036080 2016] [:error] [pid 11619] [client 188.186.123.30:63936] script '/var/www/vhosts/www.rndsquared.com/htdocs/pinfo.php' not found or unable to stat
+[Wed Dec 07 13:20:39.668914 2016] [:error] [pid 11615] [client 188.186.123.30:64070] script '/var/www/vhosts/www.rndsquared.com/htdocs/info.php' not found or unable to stat
+[Wed Dec 07 14:36:18.458457 2016] [ssl:error] [pid 11976] [client 180.76.15.21:12571] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Wed Dec 07 19:58:10.223367 2016] [ssl:error] [pid 29439] [client 202.46.51.210:12856] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Thu Dec 08 03:28:24.062998 2016] [ssl:error] [pid 11618] [client 180.76.15.33:19589] AH02225: Re-negotiation request failed
+[Thu Dec 08 03:28:24.063060 2016] [ssl:error] [pid 11618] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Thu Dec 08 04:01:20.708060 2016] [ssl:error] [pid 11615] [client 202.46.48.98:56819] AH02225: Re-negotiation request failed
+[Thu Dec 08 04:01:20.708104 2016] [ssl:error] [pid 11615] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Thu Dec 08 04:34:40.598017 2016] [ssl:error] [pid 29439] [client 104.193.89.243:43200] AH02225: Re-negotiation request failed
+[Thu Dec 08 04:34:40.598099 2016] [ssl:error] [pid 29439] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Thu Dec 08 21:59:45.815100 2016] [ssl:error] [pid 28683] [client 180.76.15.161:60041] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Thu Dec 08 22:33:05.915825 2016] [ssl:error] [pid 29440] [client 202.46.51.179:56494] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Fri Dec 09 12:01:50.653670 2016] [ssl:error] [pid 11617] [client 180.76.15.22:52785] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Sat Dec 10 03:15:54.070672 2016] [ssl:error] [pid 11614] [client 123.125.67.227:51311] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Sat Dec 10 05:00:18.324597 2016] [ssl:error] [pid 11615] [client 180.76.15.8:32825] AH02225: Re-negotiation request failed
+[Sat Dec 10 05:00:18.324676 2016] [ssl:error] [pid 11615] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Sat Dec 10 05:00:18.332117 2016] [ssl:error] [pid 26200] [client 180.76.15.161:58165] AH02225: Re-negotiation request failed
+[Sat Dec 10 05:00:18.332148 2016] [ssl:error] [pid 26200] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Sat Dec 10 08:13:43.059503 2016] [ssl:error] [pid 11616] [client 180.76.15.140:23265] AH02225: Re-negotiation request failed
+[Sat Dec 10 08:13:43.059927 2016] [ssl:error] [pid 11616] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Sat Dec 10 08:16:44.490267 2016] [ssl:error] [pid 11613] [client 202.46.57.18:53549] AH02225: Re-negotiation request failed
+[Sat Dec 10 08:16:44.490314 2016] [ssl:error] [pid 11613] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Sat Dec 10 08:50:04.827347 2016] [ssl:error] [pid 29440] [client 104.193.89.243:10932] AH02225: Re-negotiation request failed
+[Sat Dec 10 08:50:04.827406 2016] [ssl:error] [pid 29440] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Sat Dec 10 18:48:54.599443 2016] [ssl:error] [pid 11617] [client 180.76.15.5:33354] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Sat Dec 10 19:39:10.563145 2016] [ssl:error] [pid 29439] [client 202.46.55.90:28451] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Sat Dec 10 20:19:29.051257 2016] [ssl:error] [pid 11618] [client 202.46.53.152:51502] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Sat Dec 10 20:38:41.316812 2016] [ssl:error] [pid 11620] [client 131.161.9.250:39771] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Sun Dec 11 15:40:33.103277 2016] [ssl:error] [pid 27611] [client 64.246.165.50:49001] AH02225: Re-negotiation request failed, referer: http://whois.domaintools.com/rndsquared.com
+[Sun Dec 11 15:40:33.103404 2016] [ssl:error] [pid 27611] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Mon Dec 12 19:03:53.037488 2016] [ssl:error] [pid 27606] [client 220.181.108.81:12846] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Mon Dec 12 19:04:30.192628 2016] [ssl:error] [pid 27608] [client 123.125.71.107:48892] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Mon Dec 12 19:06:31.148669 2016] [ssl:error] [pid 27612] [client 220.181.108.157:55240] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Tue Dec 13 03:51:54.721206 2016] [:error] [pid 2012] [client 113.163.117.127:55136] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Wed Dec 14 20:24:28.403171 2016] [ssl:error] [pid 2016] [client 180.76.15.7:39275] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Wed Dec 14 20:57:48.321457 2016] [ssl:error] [pid 2012] [client 202.46.54.167:17259] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Thu Dec 15 00:29:34.953527 2016] [ssl:error] [pid 2015] [client 180.76.15.162:10105] AH02225: Re-negotiation request failed
+[Thu Dec 15 00:29:34.954268 2016] [ssl:error] [pid 2015] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Thu Dec 15 01:02:54.751504 2016] [ssl:error] [pid 2011] [client 202.46.50.92:25509] AH02225: Re-negotiation request failed
+[Thu Dec 15 01:02:54.751570 2016] [ssl:error] [pid 2011] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Thu Dec 15 01:36:14.491797 2016] [ssl:error] [pid 2015] [client 104.193.89.243:48915] AH02225: Re-negotiation request failed
+[Thu Dec 15 01:36:14.491870 2016] [ssl:error] [pid 2015] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Thu Dec 15 04:34:16.296771 2016] [ssl:error] [pid 2017] [client 180.76.15.11:27983] AH02225: Re-negotiation request failed
+[Thu Dec 15 04:34:16.297214 2016] [ssl:error] [pid 2017] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Thu Dec 15 04:34:16.427386 2016] [ssl:error] [pid 2014] [client 180.76.15.147:27984] AH02225: Re-negotiation request failed
+[Thu Dec 15 04:34:16.427462 2016] [ssl:error] [pid 2014] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Thu Dec 15 05:55:19.794751 2016] [ssl:error] [pid 20831] [client 123.125.71.15:31748] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Fri Dec 16 00:24:53.499699 2016] [ssl:error] [pid 23291] [client 180.76.15.153:16545] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Fri Dec 16 00:58:13.495654 2016] [ssl:error] [pid 2014] [client 202.46.50.98:38222] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Fri Dec 16 01:38:11.306024 2016] [ssl:error] [pid 2012] [client 180.76.15.141:29067] AH02225: Re-negotiation request failed
+[Fri Dec 16 01:38:11.306657 2016] [ssl:error] [pid 2012] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Fri Dec 16 01:38:12.324438 2016] [ssl:error] [pid 2015] [client 180.76.15.5:12948] AH02225: Re-negotiation request failed
+[Fri Dec 16 01:38:12.324497 2016] [ssl:error] [pid 2015] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Fri Dec 16 02:04:24.409835 2016] [ssl:error] [pid 11513] [client 180.76.15.137:60432] AH02225: Re-negotiation request failed
+[Fri Dec 16 02:04:24.409929 2016] [ssl:error] [pid 11513] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Fri Dec 16 03:11:33.668575 2016] [ssl:error] [pid 2010] [client 180.76.15.22:38442] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Fri Dec 16 03:44:53.460245 2016] [ssl:error] [pid 11513] [client 180.76.15.34:31055] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Fri Dec 16 03:50:47.749614 2016] [ssl:error] [pid 2017] AH02032: Hostname www.rndsquared.com provided via SNI and hostname rndsquared.com provided via HTTP are different
+[Fri Dec 16 03:50:50.555387 2016] [ssl:error] [pid 2010] AH02032: Hostname www.rndsquared.com provided via SNI and hostname rndsquared.com provided via HTTP are different
+[Fri Dec 16 03:50:53.355768 2016] [ssl:error] [pid 20831] AH02032: Hostname www.rndsquared.com provided via SNI and hostname rndsquared.com provided via HTTP are different
+[Fri Dec 16 03:50:56.153741 2016] [ssl:error] [pid 2011] AH02032: Hostname www.rndsquared.com provided via SNI and hostname rndsquared.com provided via HTTP are different
+[Fri Dec 16 04:02:10.212544 2016] [ssl:error] [pid 11513] AH02032: Hostname www.rndsquared.com provided via SNI and hostname rndsquared.com provided via HTTP are different
+[Fri Dec 16 04:02:13.021303 2016] [ssl:error] [pid 2013] AH02032: Hostname www.rndsquared.com provided via SNI and hostname rndsquared.com provided via HTTP are different
+[Fri Dec 16 04:02:15.835087 2016] [ssl:error] [pid 2012] AH02032: Hostname www.rndsquared.com provided via SNI and hostname rndsquared.com provided via HTTP are different
+[Fri Dec 16 04:02:18.644733 2016] [ssl:error] [pid 2015] AH02032: Hostname www.rndsquared.com provided via SNI and hostname rndsquared.com provided via HTTP are different
+[Fri Dec 16 11:10:07.140358 2016] [ssl:error] [pid 2010] [client 180.76.15.156:20452] AH02225: Re-negotiation request failed
+[Fri Dec 16 11:10:07.140445 2016] [ssl:error] [pid 2010] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Fri Dec 16 11:19:52.880126 2016] [ssl:error] [pid 2015] [client 180.76.15.22:22140] AH02225: Re-negotiation request failed
+[Fri Dec 16 11:19:52.880532 2016] [ssl:error] [pid 2015] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Fri Dec 16 11:26:08.080750 2016] [ssl:error] [pid 2012] [client 180.76.15.30:16692] AH02225: Re-negotiation request failed
+[Fri Dec 16 11:26:08.080798 2016] [ssl:error] [pid 2012] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Fri Dec 16 12:55:40.604519 2016] [ssl:error] [pid 2015] [client 180.76.15.27:27205] AH02225: Re-negotiation request failed
+[Fri Dec 16 12:55:40.604905 2016] [ssl:error] [pid 2015] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Sat Dec 17 06:18:15.209499 2016] [ssl:error] [pid 11592] [client 180.76.15.34:31390] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Sat Dec 17 06:51:35.087562 2016] [ssl:error] [pid 23291] [client 202.46.58.131:49130] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Sat Dec 17 11:15:17.796162 2016] [:error] [pid 11513] [client 185.125.216.169:61400] script '/var/www/vhosts/www.rndsquared.com/htdocs/index.php' not found or unable to stat
+[Sun Dec 18 01:07:26.841644 2016] [:error] [pid 2012] [client 202.212.203.180:61109] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Sun Dec 18 09:42:25.161059 2016] [:error] [pid 23290] [client 188.212.33.134:48908] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://45.79.81.203:65080/t.txt
+[Mon Dec 19 01:24:59.906325 2016] [ssl:error] [pid 23291] [client 220.181.108.179:47198] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Mon Dec 19 01:25:00.338536 2016] [ssl:error] [pid 2017] [client 220.181.108.174:26523] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Mon Dec 19 01:28:15.993571 2016] [ssl:error] [pid 20831] [client 123.125.71.44:32964] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Mon Dec 19 03:15:54.432650 2016] [ssl:error] [pid 2010] [client 220.181.108.111:56863] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Mon Dec 19 11:01:46.548701 2016] [ssl:error] [pid 24398] [client 180.76.15.141:12984] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Mon Dec 19 11:35:06.370044 2016] [ssl:error] [pid 24398] [client 202.46.49.191:30358] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Mon Dec 19 16:44:37.794034 2016] [ssl:error] [pid 24398] [client 180.76.15.21:30722] AH02225: Re-negotiation request failed
+[Mon Dec 19 16:44:37.794437 2016] [ssl:error] [pid 24398] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Mon Dec 19 17:07:07.307382 2016] [ssl:error] [pid 24403] [client 202.46.57.183:12015] AH02225: Re-negotiation request failed
+[Mon Dec 19 17:07:07.307443 2016] [ssl:error] [pid 24403] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Mon Dec 19 17:40:26.806396 2016] [ssl:error] [pid 24400] [client 104.193.89.243:27874] AH02225: Re-negotiation request failed
+[Mon Dec 19 17:40:26.806889 2016] [ssl:error] [pid 24400] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Tue Dec 20 03:03:38.851967 2016] [ssl:error] [pid 24398] [client 123.125.67.221:36728] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Thu Dec 22 17:32:19.277809 2016] [:error] [pid 29453] [client 185.129.148.190:37541] script '/var/www/vhosts/www.rndsquared.com/htdocs/hetlerx.php' not found or unable to stat
+[Fri Dec 23 07:07:48.426250 2016] [ssl:error] [pid 3648] [client 220.181.108.172:20246] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Sat Dec 24 20:46:01.314095 2016] [ssl:error] [pid 32098] [client 123.125.67.164:49611] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Sat Dec 24 20:49:11.237939 2016] [ssl:error] [pid 32103] [client 220.181.51.121:57918] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Sun Dec 25 17:33:51.342680 2016] [ssl:error] [pid 7510] [client 180.76.15.156:54478] AH02225: Re-negotiation request failed
+[Sun Dec 25 17:33:51.342734 2016] [ssl:error] [pid 7510] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Sun Dec 25 17:33:51.529172 2016] [ssl:error] [pid 7505] [client 180.76.15.141:32117] AH02225: Re-negotiation request failed
+[Sun Dec 25 17:33:51.529263 2016] [ssl:error] [pid 7505] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Sun Dec 25 17:35:13.215295 2016] [ssl:error] [pid 7508] [client 180.76.15.142:38725] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Sun Dec 25 18:08:33.181671 2016] [ssl:error] [pid 7508] [client 202.46.49.136:15959] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Sun Dec 25 18:41:53.033532 2016] [ssl:error] [pid 7505] [client 104.193.88.245:50141] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Sun Dec 25 21:12:30.904480 2016] [:error] [pid 7505] [client 51.254.115.27:49490] script '/var/www/vhosts/www.rndsquared.com/htdocs/index.php' not found or unable to stat
+[Mon Dec 26 15:06:36.327924 2016] [ssl:error] [pid 7512] [client 180.76.15.154:44392] AH02225: Re-negotiation request failed
+[Mon Dec 26 15:06:36.327967 2016] [ssl:error] [pid 7512] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Mon Dec 26 17:39:06.855534 2016] [ssl:error] [pid 20234] [client 180.76.15.12:57674] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Mon Dec 26 22:14:41.588813 2016] [ssl:error] [pid 7510] [client 220.181.108.180:35426] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Tue Dec 27 00:47:31.491272 2016] [ssl:error] [pid 7506] [client 180.76.15.145:29592] AH02225: Re-negotiation request failed
+[Tue Dec 27 00:47:31.491333 2016] [ssl:error] [pid 7506] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Tue Dec 27 01:12:03.179943 2016] [ssl:error] [pid 7506] [client 202.46.58.131:52077] AH02225: Re-negotiation request failed
+[Tue Dec 27 01:12:03.179986 2016] [ssl:error] [pid 7506] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Tue Dec 27 01:45:22.954901 2016] [ssl:error] [pid 7511] [client 104.193.89.243:32035] AH02225: Re-negotiation request failed
+[Tue Dec 27 01:45:22.955268 2016] [ssl:error] [pid 7511] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Tue Dec 27 08:25:47.494516 2016] [ssl:error] [pid 7507] [client 180.76.15.25:44526] AH02225: Re-negotiation request failed
+[Tue Dec 27 08:25:47.494579 2016] [ssl:error] [pid 7507] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Wed Dec 28 20:04:21.365693 2016] [ssl:error] [pid 7508] [client 64.246.165.150:20314] AH02225: Re-negotiation request failed, referer: http://whois.domaintools.com/rndsquared.com
+[Wed Dec 28 20:04:21.365760 2016] [ssl:error] [pid 7508] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Thu Dec 29 02:35:01.075443 2016] [ssl:error] [pid 7508] [client 123.125.71.33:56152] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Fri Dec 30 06:18:07.520253 2016] [ssl:error] [pid 7510] [client 180.76.15.136:38199] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Fri Dec 30 06:51:27.531176 2016] [ssl:error] [pid 7507] [client 202.46.56.114:50416] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Sat Dec 31 04:12:31.890420 2016] [ssl:error] [pid 1259] [client 180.76.15.138:22636] AH02225: Re-negotiation request failed
+[Sat Dec 31 04:12:31.890481 2016] [ssl:error] [pid 1259] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Sat Dec 31 04:45:48.706504 2016] [ssl:error] [pid 7218] [client 202.46.50.138:26698] AH02225: Re-negotiation request failed
+[Sat Dec 31 04:45:48.706607 2016] [ssl:error] [pid 7218] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Sat Dec 31 05:19:08.620703 2016] [ssl:error] [pid 20234] [client 104.193.89.243:25142] AH02225: Re-negotiation request failed
+[Sat Dec 31 05:19:08.621114 2016] [ssl:error] [pid 20234] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled
+[Sat Dec 31 06:49:07.118559 2016] [ssl:error] [pid 7218] [client 220.181.51.115:34011] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Sat Dec 31 15:55:00.181448 2016] [ssl:error] [pid 7510] [client 180.76.15.139:50993] AH02225: Re-negotiation request failed
+[Sat Dec 31 15:55:00.181510 2016] [ssl:error] [pid 7510] SSL Library Error: error:14080152:SSL routines:SSL3_ACCEPT:unsafe legacy renegotiation disabled

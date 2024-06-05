@@ -1,0 +1,7 @@
+[Fri Aug 11 01:05:59.100561 2017] [ssl:error] [pid 31461] [client 157.55.39.20:1949] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Sun Aug 13 23:38:37.431422 2017] [ssl:error] [pid 26867] [client 157.55.39.6:10709] AH02261: Re-negotiation handshake failed: Not accepted by client!?
+[Wed Aug 16 07:26:37.754927 2017] [:error] [pid 3401] [client 204.12.238.106:56819] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat, referer: http://www.google.com.hk
+[Wed Aug 16 07:42:55.978676 2017] [:error] [pid 25730] [client 204.12.238.106:53459] script '/var/www/vhosts/www.rndsquared.com/htdocs/xmlrpc.php' not found or unable to stat, referer: http://www.google.com.hk
+[Fri Aug 18 00:36:44.890638 2017] [:error] [pid 8685] [client 103.69.21.73:55429] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Fri Aug 18 19:56:27.033048 2017] [:error] [pid 25730] [client 94.242.246.23:46055] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Fri Aug 18 19:56:32.404588 2017] [:error] [pid 3405] [client 94.242.246.23:35575] script '/var/www/vhosts/www.rndsquared.com/htdocs/index.php' not found or unable to stat

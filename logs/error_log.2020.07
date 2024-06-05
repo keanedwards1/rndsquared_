@@ -1,0 +1,5 @@
+[Mon Jul 06 03:01:45.643772 2020] [:error] [pid 9908] [client 37.59.46.228:53808] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Tue Jul 07 04:10:02.513511 2020] [:error] [pid 7464] [client 192.99.34.142:59774] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
+[Tue Jul 07 06:08:38.715780 2020] [ssl:error] [pid 14546] AH02032: Hostname rndsquared.com provided via SNI and hostname www.rndsquared.com provided via HTTP are different
+[Tue Jul 07 20:03:06.781963 2020] [:error] [pid 7460] [client 40.69.155.91:59199] script '/var/www/vhosts/www.rndsquared.com/htdocs/xmlrpc.php' not found or unable to stat
+[Wed Jul 08 00:00:49.859131 2020] [:error] [pid 7463] [client 192.99.36.177:61984] script '/var/www/vhosts/www.rndsquared.com/htdocs/wp-login.php' not found or unable to stat
