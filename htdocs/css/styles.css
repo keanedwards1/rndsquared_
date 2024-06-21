@@ -681,6 +681,7 @@ i.plane-sm {
   margin-left: 5px;
   background: url(../img/in.png) no-repeat 0 0;
 }
+
 @media (max-width: 480px) {
   .horizontal li {
     padding: 0 4px;
@@ -728,3 +729,57 @@ i.plane-sm {
     font-size: 22px;
   }
 }
+
+
+.photo-row {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+.photo-container {
+  display: flex;
+  flex-wrap: nowrap; /* Ensure images and text are in a single row */
+}
+
+.image-with-text {
+  position: relative;
+  flex: 1 0 auto;
+  max-width: 15%; /* Adjust percentage based on the number of images */
+  margin: 0; /* Remove margin for spacing */
+}
+
+.image-with-text img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.text-overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white; /* Text color */
+  background: rgba(84, 84, 84, 0.5); /* Optional: adds a semi-transparent background for better readability */
+  padding: 10px; /* Optional: for better readability */
+  box-sizing: border-box; /* Ensure padding is included in the element's total width and height */
+  text-align: center;
+  width: 100%; /* Ensure the text overlay spans the entire width of the image */
+  font-size: 1vw; /* Responsive font size */
+}
+
+.photo-container img {
+  flex: 1 0 auto; /* Allow images to grow and shrink as needed */
+  max-width: 15%; /* Adjust percentage based on the number of images */
+  height: auto; /* Maintain aspect ratio */
+  object-fit: cover; /* Ensure images cover the entire area */
+  display: block;
+  margin: 0; /* Remove margin for spacing */
+}
+
+.first-image {
+  height: 100% !important;
+  max-width: 100% !important;
+}
+
