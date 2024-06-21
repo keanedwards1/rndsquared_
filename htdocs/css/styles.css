@@ -384,6 +384,10 @@ section.module.parallax h1.tag-0 {
   -ms-transition: all 0.3s;
   -o-transition: all 0.3s;
 }
+.project-header:hover {
+  background-color: rgba(200, 205, 216, 0.36);
+
+}
 .project-header:before,
 .project-header:after {
   font-family: FontAwesome;
@@ -428,8 +432,8 @@ section.module.parallax h1.tag-0 {
 }
 section.module .project-header:hover h2,
 section.module .project-header.active h2 {
-  color: #3c5cab;
-}
+/*   color: #3c5cab;
+ */}
 section.module .project-header h2 {
   margin: 0;
   font-size: 28px;
@@ -494,6 +498,7 @@ a.lb-close:hover {
 }
 section.module h3.proj-sep {
   color: #76345a;
+  color: #5b69b8;
   margin: 30px 0 17px 0;
   font-size: 28px;
 }
